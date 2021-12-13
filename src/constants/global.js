@@ -1,0 +1,22 @@
+export const PHOTO_CATEGORY_OPTIONS = [
+    {
+        value:1,
+        label:'Nature'
+    },
+    {
+        value:2,
+        label:'Lanscape'
+    },
+    {
+        value:3,
+        label:'Flower'
+    },
+    {
+        value:4,
+        label:'Animal'
+    },
+    {
+        value:5,
+        label:'Sunset'
+    }
+]
