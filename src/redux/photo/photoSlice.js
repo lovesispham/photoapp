@@ -9,19 +9,19 @@ const initialPhotos = [
     {
         id:uuidv4(),
         categoryId:5,
-        photo:'https:picsum.photos/350/200?random=1098',
+        photo:'https://picsum.photos/350/200?random=1098',
         title:'demo 1'
     },
     {
         id:uuidv4(),
         categoryId:3,
-        photo:'https:picsum.photos/350/200?random=1098',
+        photo:'https://picsum.photos/350/200?random=555',
         title:'demo 2'
     },
     {
         id:uuidv4(),
         categoryId:2,
-        photo:'https:picsum.photos/350/200?random=1098',
+        photo:'https://picsum.photos/350/200?random=432',
         title:'demo 3'
     }
 ]
